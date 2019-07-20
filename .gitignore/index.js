@@ -30,7 +30,7 @@ client.on('message', message => {
   }
 });
 
-client.login('NjAwNjYwMzgwODEzMDk5MDEx.XTMbdw.8HTTWxzoO-TceMX_q-_k2J4zp3I');
+client.login('NjAwNjYwMzgwODEzMDk5MDEx.XTMsKw.QKKSGjI0Pp2sEqM-HJS0HUge2WA');
 
 client.on('message', message => {
   if (message.content === 'yo') {
